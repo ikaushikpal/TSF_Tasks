@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# video files
+*.mp4
+
+# Jovian
+*.jovianrc
+
 # C extensions
 *.so
 
